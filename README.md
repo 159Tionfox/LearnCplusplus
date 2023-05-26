@@ -8,13 +8,6 @@
 |   File Name    |                       Learn                       |
 | :------------: | :-----------------------------------------------: |
 | TypeOfData.cpp | short/int/long long/float/double/bool/char/string |
-|                |                                                   |
-|                |                                                   |
-|                |                                                   |
-|                |                                                   |
-|                |                                                   |
-|                |                                                   |
-|                |                                                   |
 
 
 
