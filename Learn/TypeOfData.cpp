@@ -5,7 +5,7 @@ int main()
 	// C/C++
 	short a = 12345;
 	int b = 1234567891;
-	//long [windows 8 byte]/[Linux 4 byte]
+	//long [windows 4 byte]/[Linux 8 byte]
 	long long c = 123456789123456789;
 	
 	float d = 1.2f;
